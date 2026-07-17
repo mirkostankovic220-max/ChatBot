@@ -1,5 +1,5 @@
 const CONFIG = {
-    apiKey: "YOUR_OPENROUTER_API_KEY",
+    apiKey: "",
     model: "openai/gpt-oss-20b:free",
     apiUrl: "https://openrouter.ai/api/v1/chat/completions",
 
